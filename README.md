@@ -11,4 +11,7 @@ use tool for it :-
           2. Data Types 
           3. Class and Objects 
           4. Java and kotlin together 
+          5. Operators
+          6. If else 
+          
           
