@@ -13,5 +13,6 @@ use tool for it :-
           4. Java and kotlin together 
           5. Operators
           6. If else 
+          7. exercies - (ifelse),(kotlin java together)
           
           
