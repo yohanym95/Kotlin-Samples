@@ -18,4 +18,5 @@ use tool for it :-
           9. Null Handling
           10.When Expresion 
           11.Input Output in Kotlin
+          12.Loop and Range
           
