@@ -19,4 +19,5 @@ use tool for it :-
           10.When Expresion 
           11.Input Output in Kotlin
           12.Loop and Range
+          13.Loop Pattern
           
