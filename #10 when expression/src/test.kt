@@ -1,9 +1,9 @@
 fun main(args : Array<String>){
     //java switch - kotlin when ->
 
-    val num = 2
+    val num = 2 //Able to use any type data for "when".
 
-    when(num) //when is expression so that we dont use break and contiue to this
+    when(num) //Speciality is that no need break statement. Also use "else" key word as "default" part.
     {
         1 -> println("One")
         2 -> println("two")
@@ -11,7 +11,7 @@ fun main(args : Array<String>){
         else -> println("Give a right number")
     }
 
-    val str = when(num)
+    val str = when(num) //Also we can use this as an expression too.
     {
         1 ->"One"
         2 -> "two"
@@ -20,5 +20,5 @@ fun main(args : Array<String>){
     }
     println("str is $str")
 
-
+//"When" key word is very similar to "switch" in java. Use "when" key word as "switch".
 }
