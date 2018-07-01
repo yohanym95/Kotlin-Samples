@@ -24,5 +24,6 @@ use tool for it :-
           12.Loop and Range
           13.Loop Pattern
           14.List and Map
+          15.While and Do while
           
           
