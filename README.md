@@ -27,5 +27,6 @@ use tool for it :-
           15.While and Do while
           16.Break and Continue
           17.Function Expression 
+          18.Function calling from Java
           
           
