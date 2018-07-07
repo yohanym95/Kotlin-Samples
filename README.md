@@ -1,6 +1,9 @@
 # Kotlin_Tutorial
 project for kotlin programs and my kotlin example and programs include in it.
 
+Kotlin is a Java based language. If you know the basics of Java, it's realy easy to learn Kotlin.
+Also Kotlin is the official language for Android Studio.
+
 use tool for it :-
           
           *IntelliJ IDEA
@@ -18,4 +21,14 @@ use tool for it :-
           9. Null Handling
           10.When Expresion 
           11.Input Output in Kotlin
+          12.Loop and Range
+          13.Loop Pattern
+          14.List and Map
+          15.While and Do while
+          16.Break and Continue
+          17.Function Expression 
+          18.Function calling from Java
+          19.Default and Named Parameter
+          20.String to Int
+          
           
