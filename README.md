@@ -29,5 +29,6 @@ use tool for it :-
           17.Function Expression 
           18.Function calling from Java
           19.Default and Named Parameter
+          20.String to Int
           
           
