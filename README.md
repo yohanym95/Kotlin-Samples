@@ -28,5 +28,6 @@ use tool for it :-
           16.Break and Continue
           17.Function Expression 
           18.Function calling from Java
+          19.Default and Named Parameter
           
           
