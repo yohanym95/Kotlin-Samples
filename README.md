@@ -32,5 +32,11 @@ use tool for it :-
           20.String to Int
           21.Try Expression
           22.Extension Expression
+          23.Lamda and Unit Function
+          24.Inflix and Operator Overiding
+          25.Recursion 
+          24.Tail Recursion
+          25.Constructor
+
           
           
