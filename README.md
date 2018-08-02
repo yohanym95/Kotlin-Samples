@@ -37,6 +37,7 @@ use tool for it :-
           25.Recursion 
           26.Tail Recursion
           27.Constructor
+          28.Inheritence
 
           
           
