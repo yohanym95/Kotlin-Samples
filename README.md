@@ -35,8 +35,8 @@ use tool for it :-
           23.Lamda and Unit Function
           24.Inflix and Operator Overiding
           25.Recursion 
-          24.Tail Recursion
-          25.Constructor
+          26.Tail Recursion
+          27.Constructor
 
           
           
