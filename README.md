@@ -42,6 +42,7 @@ use tool for it :-
           30.Interface
           31.Data classes
           32.Object Keyword
+          33.Anonymous Inner Class
 
           
           
