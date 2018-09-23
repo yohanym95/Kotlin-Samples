@@ -39,10 +39,10 @@ use tool for it :-
           27.Constructor
           28.Inheritence
           29.Abstraction
-<<<<<<< HEAD
-=======
           30.Interface
->>>>>>> a99e0527b9b2585aa139ae910330311aa10edaf3
+          31.Data classes
+          32.Object Keyword
+          33.Anonymous Inner Class
 
           
           
